@@ -53,9 +53,9 @@ Syarat:
 
 
 🧑‍💻 Developer
-Ahmad Fajar Permadi
-Juni 2025
-GitHub Portofolio
+-  Fajar Permadi
+-  Juni 2025
+  -  GitHub Portofolio
 
 
 
