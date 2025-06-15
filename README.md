@@ -41,7 +41,7 @@ qr-absensi-seminar/
 ├── qr_peserta/
 
 🔐 Tentang credentials.json
-Agar program dapat berjalan (baik kirim_wa_qr.py maupun scan_absensi.py), dibutuhkan file autentikasi dari Google berupa:
+Agar program dapat berjalan (baik kirim_wa_qr.exe maupun scan_absensi.exe), dibutuhkan file autentikasi dari Google berupa:
 
 credentials.json
 
