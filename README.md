@@ -44,8 +44,9 @@ qr-absensi-seminar/
 Agar program dapat berjalan (baik kirim_wa_qr.exe maupun scan_absensi.exe), dibutuhkan file autentikasi dari Google berupa:
 
 credentials.json
+(yang ter-upload diGitHub adalah credentials.json dummy/palsu)
 
-📌 File ini tidak disertakan di repositori ini demi alasan keamanan.
+📌 File yang asli tidak disertakan di repositori ini demi alasan keamanan.
 Namun, jika Anda benar-benar membutuhkan file tersebut untuk mencoba atau menjalankan program ini:
 
 💬 Silakan hubungi langsung developer via email
