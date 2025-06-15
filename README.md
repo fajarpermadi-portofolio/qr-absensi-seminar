@@ -34,22 +34,22 @@ qr-absensi-seminar/
 
 📄 Format Spreadsheet
 Agar program bisa berjalan, spreadsheet kamu wajib memiliki kolom berikut:
-NPM | NAMA | JURUSAN | NOMOR HP | Check-in | Check-out
--Beri akses ke spreadsheet kamu ke service account:
--seminar-bot@nodal-keep-462715-i2.iam.gserviceaccount.com
+  NPM | NAMA | JURUSAN | NOMOR HP | Check-in | Check-out
+-  Beri akses ke spreadsheet kamu ke service account:
+-  seminar-bot@nodal-keep-462715-i2.iam.gserviceaccount.com
 
 🖥️ Menjalankan Program
 Syarat:
--WhatsApp Web harus aktif di browser default
--Jangan tutup tab browser sebelum semua QR dikirim
--Nomor HP di spreadsheet harus valid (format: 08xxxx / 62xxxx)
+-  WhatsApp Web harus aktif di browser default
+-  Jangan tutup tab browser sebelum semua QR dikirim
+-  Nomor HP di spreadsheet harus valid (format: 08xxxx / 62xxxx)
 
 📌 Untuk absensi (Scan QR):
--Jalankan program
--Klik Mulai Kamera
--Klik Ubah Mode (Check-in ↔ Check-out)
--Arahkan QR peserta ke kamera
--Klik Export ke Excel jika ingin menyimpan salinan lokal
+-  Jalankan program
+-  Klik Mulai Kamera
+-  Klik Ubah Mode (Check-in ↔ Check-out)
+-  Arahkan QR peserta ke kamera
+-  Klik Export ke Excel jika ingin menyimpan salinan lokal
 
 
 🧑‍💻 Developer
