@@ -6,13 +6,13 @@ Proyek ini mencakup sistem otomatis **pembuatan dan pengiriman QR Code ke pesert
 
 ## 📌 Fitur Utama
 
-### 🧾 kirim_wa_qr.py
+### 🧾 kirim_wa_qr.exe
 - Ambil data peserta dari Google Spreadsheet (hasil Google Form)
 - Buat QR Code untuk setiap peserta berdasarkan NPM, Nama, dan Jurusan
 - Simpan QR ke folder `qr_peserta/`
 - Kirim QR via WhatsApp Web ke peserta secara otomatis
 
-### 🟩 scan_absensi.py
+### 🟩 scan_absensi.exe
 - Scan QR Code peserta melalui kamera laptop
 - Tersedia mode Check-in & Check-out
 - Data kehadiran langsung dicatat ke Google Spreadsheet
