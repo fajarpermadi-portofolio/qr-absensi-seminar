@@ -23,13 +23,21 @@ Proyek ini mencakup sistem otomatis **pembuatan dan pengiriman QR Code ke pesert
 ---
 
 ## 📁 Struktur Folder
+
 qr-absensi-seminar/
-├── kirim_wa_qr.py
-├── scan_absensi.py
+
+├── kirim_wa_qr.exe
+
+├── scan_absensi.exe
+
 ├── config.json
+
 ├── credentials.json
-├── .gitignore
+
+├── .dll
+
 ├── README.md
+
 ├── qr_peserta/
 
 🔐 Tentang credentials.json
