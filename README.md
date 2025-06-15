@@ -32,6 +32,17 @@ qr-absensi-seminar/
 ├── README.md
 ├── qr_peserta/
 
+🔐 Tentang credentials.json
+Agar program dapat berjalan (baik kirim_wa_qr.py maupun scan_absensi.py), dibutuhkan file autentikasi dari Google berupa:
+
+credentials.json
+
+📌 File ini tidak disertakan di repositori ini demi alasan keamanan.
+Namun, jika Anda benar-benar membutuhkan file tersebut untuk mencoba atau menjalankan program ini:
+
+💬 Silakan hubungi langsung developer via email
+dan sertakan alasan serta identitas penggunaan. File akan diberikan secara pribadi.
+
 📄 Format Spreadsheet
 Agar program bisa berjalan, spreadsheet kamu wajib memiliki kolom berikut:
   NPM | NAMA | JURUSAN | NOMOR HP | Check-in | Check-out
@@ -54,6 +65,7 @@ Syarat:
 
 🧑‍💻 Developer
 -  Fajar Permadi
+-  fajarpermadi2713@gmail.com
 -  Juni 2025
   -  GitHub Portofolio
 
