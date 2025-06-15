@@ -1,0 +1,6 @@
+{
+  "spreadsheet_name": "tes",
+  "worksheet_index": 0,
+  "qr_folder": "qr_peserta",
+  "pesan_template": "Halo {nama},\nBerikut ini QR Code untuk kehadiran.\nJangan lupa disimpan ya!"
+}
